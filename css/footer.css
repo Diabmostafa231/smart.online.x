@@ -1,0 +1,89 @@
+
+
+.footer {
+    background-color: #ffffff;
+    margin-top: 80px;
+}
+
+.footer .footer-content {
+    max-width: 190px;
+}
+
+.footer .footer-title {
+    margin-bottom: 1rem;
+    font-size: 1.25rem;
+    font-weight: 500;
+}
+
+.footer a {
+    color: #778082;
+    display: block;
+    text-decoration: none;
+    margin-bottom: 1rem;
+    transition: all .3s;
+    -webkit-transition: all .3s;
+    -moz-transition: all .3s;
+    -ms-transition: all .3s;
+    -o-transition: all .3s;
+}
+
+.footer a:hover {
+    color: var(--background-color);
+}
+
+.footer ul {
+    padding-left: 0;
+    list-style: none;
+}
+
+.footer ul li {
+    margin-bottom: 0.5rem;
+}
+
+.footer .footer-content p {
+    margin-bottom: 1rem;
+    color: #778082;
+}
+
+.footer .text-footer {
+    margin-top: 1rem;
+    margin-left: 23px;
+}
+
+.footer .diff i {
+    position: absolute;
+    margin-left: -30px;
+    margin-top: 4px;
+}
+
+.footer .spa {
+    margin-bottom: 1rem;
+    font-size: 20px;
+    color: #000;
+}
+
+.footer .img-footer {
+    margin-bottom: 1rem;
+}
+
+.footer .socail i {
+    margin-right: 20px;
+    color: #778082;
+    font-size: 20px;
+    cursor: pointer;
+    transition: all .3s;
+    -webkit-transition: all .3s;
+    -moz-transition: all .3s;
+    -ms-transition: all .3s;
+    -o-transition: all .3s;
+}
+
+.footer .socail i:hover {
+    color: var(--background-color);
+}
+
+.footer .foot {
+    margin-top: 75px;
+    border-top: 1px solid var(--color-border);
+    color: gold;
+}
